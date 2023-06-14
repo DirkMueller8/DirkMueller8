@@ -1,6 +1,6 @@
-### Hi there, I am Dirk
+### Hi there, I am Dirk,
 
-I am enthusiastic about C# and .NET
+enthusiastic about C# and .NET
 - 🔭 I’m currently rehearsing everything I have learned so far in C#, to become more proficient
 - 🌱 I’m currently learning about Generics, Interfaces and Collections, and plan to start studying ASP.NET Core
 - 👯 I’m not yet looking to collaborate because I have to reach a suitable level of proficiency first
