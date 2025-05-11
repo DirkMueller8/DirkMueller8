@@ -1,9 +1,9 @@
 ### Hi there, I am Dirk,
 
 enthusiastic about C#/.NET and about ASP.NET Core MVC
-- 🔭 I launched my first dynamic website at https://dirkmueller8.com/
-- 🌱 In the next step I want to include APIs 
+- 🔭 My dynamic website built with ASP.NEt Core: https://dirkmueller8.com/
+- 🌱 In the next step I want to include APIs and cover cryptography
 - 👯 I’m not yet looking to collaborate as I have to reach a suitable level of proficiency first
-- 🤔 I’m looking for interesting case examples adopting Clean Code, SOLID, MVC and Unit Testing
+- 🤔 I’m looking for interesting case examples to demonstrate cybersecurity
 - 💬 Ask me about medical devices
 - 📫 How to reach me: https://www.linkedin.com/in/dirkmueller/
